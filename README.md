@@ -1,2 +1,1 @@
-# API-testing-project-1-cypress
-Testing API Cypress project
+Testing API Cypress project using env variables
